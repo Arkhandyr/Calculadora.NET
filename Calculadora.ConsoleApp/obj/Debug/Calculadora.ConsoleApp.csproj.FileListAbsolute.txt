@@ -1,0 +1,7 @@
+C:\Users\Arkhandyr\source\repos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\Calculadora.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Arkhandyr\source\repos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\Calculadora.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\source\repos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\Calculadora.ConsoleApp.exe.config
+C:\Users\Arkhandyr\source\repos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\Calculadora.ConsoleApp.exe
+C:\Users\Arkhandyr\source\repos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\bin\Debug\Calculadora.ConsoleApp.pdb
+C:\Users\Arkhandyr\source\repos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\Calculadora.ConsoleApp.exe
+C:\Users\Arkhandyr\source\repos\Calculadora.ConsoleApp\Calculadora.ConsoleApp\obj\Debug\Calculadora.ConsoleApp.pdb
